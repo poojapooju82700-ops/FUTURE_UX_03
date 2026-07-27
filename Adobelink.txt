@@ -1,0 +1,12 @@
+CRM Dashboard UI Design
+
+Adobe XD Prototype Link:
+
+Paste your Adobe XD link here:
+https://firefly.adobe.com/boards/id/urn:aaid:sc:AP:9a60179f-480c-48fd-bd6c-82bdd47bbd35
+
+Project Screens:
+1. Dashboard
+2. Lead Pipeline
+3. Client Management
+4. Tasks & Follow-ups
